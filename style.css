@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+#bookmarklet {
+    display: block;
+    font-weight: bold;
+    text-tranform: uppercase;
+    color: white;
+    background: #8904C7;
+    text-align: left;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    -o-border-radius: 3px;
+    border-radius: 3px;
+    border-bottom: 2px solid #DFA5FA;
+    text-shadow: 0 1px 1px #DFA5FA;
+    font-size: 16px;
+    overflow: hidden;
+    cursor: move;
+    padding: 10px;
+    -webkit-user-select: none;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+  }
+
+  p {
+    text-align: left;
+    font-size: 16px;
+    overflow: hidden;
+    cursor: move;
+    padding: 10px;
+    -webkit-user-select: none;
+    text-decoration: none;
+    text-align: center;
+    width: 50%;
+    margin: 0 auto;
+    margin-top: 30px;
+  }
