@@ -1,2 +1,1 @@
-javascript:(function(){javascript:var s=document.createElement('script');s.setAttribute('src','https://nthitz.github.io/turndownforwhatjs/tdfw.js');document.body.appendChild(s);})();
-// this will not work right now
+javascript:(function(){javascript:var s=document.createElement('script');s.setAttribute('src','https://ipce-ahmedovski-browser-dance.vercel.app/tdfw.js');document.body.appendChild(s);})();
